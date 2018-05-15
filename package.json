@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jmolina9596/Setup/issues"
   },
-  "homepage": "https://github.com/jmolina9596/Setup#readme"
+  "homepage": "https://github.com/jmolina9596/Setup#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
